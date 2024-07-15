@@ -156,14 +156,11 @@ Copy fine-tuned-model intellects
 ollama run intellects
 ```
 
-THANK YOU
-~INTELLECTS
-
 #ChatBot-Photo
 ![Chatbot-photo](https://github.com/user-attachments/assets/8f73e9f2-a6ca-4ce9-99b7-d367b1460cbd)
 
 #ChatBot-Demo
-https://github.com/user-attachments/assets/9315a4d0-5373-4235-9300-3372dd65b458
+![ChatBot-Demo](https://github.com/user-attachments/assets/9315a4d0-5373-4235-9300-3372dd65b458)
 
-
-
+THANK YOU
+~INTELLECTS
