@@ -1,0 +1,157 @@
+[
+  {
+    "instruction": "What is Intel?",
+    "input": "",
+    "output": "Intel Corporation is an American multinational corporation and technology company that designs and manufactures essential technologies for computing and communications"
+  },
+  {
+    "instruction": "When was Intel founded?",
+    "input": "",
+    "output": "Intel was founded on July 18, 1968."
+  },
+  {
+    "instruction": "Who founded Intel?",
+    "input": "",
+    "output": "Intel was founded by Robert Noyce and Gordon Moore, along with Andrew Grove."
+  },
+  {
+    "instruction": "Where is Intel headquartered?",
+    "input": "",
+    "output": "Intel's headquarters are located in Santa Clara, California, USA."
+  },
+  {
+    "instruction": "What does Intel manufacture?",
+    "input": "",
+    "output": "Intel primarily manufactures microprocessors, but also produces other hardware and software products related to computing and communications."
+  },
+  {
+    "instruction": "What is Intel famous for?",
+    "input": "",
+    "output": "Intel is famous for its microprocessors, especially those used in personal computers (PCs)."
+  },
+  {
+    "instruction": "What are Intel's main products?",
+    "input": "",
+    "output": "Intel's main products include microprocessors for desktops, laptops, servers, and mobile devices, as well as motherboard chipsets, network interface controllers, and integrated circuits."
+  },
+  {
+    "instruction": "Who are Intel's competitors?",
+    "input": "",
+    "output": "Intel's main competitors include companies like AMD (Advanced Micro Devices), NVIDIA, Qualcomm, and others in the semiconductor industry."
+  },
+  {
+    "instruction": "How big is Intel?",
+    "input": "",
+    "output": "Intel is one of the world's largest semiconductor chip makers by revenue. It employs tens of thousands of people globally."
+  },
+  {
+    "instruction": "Evaluate this sentence for spelling and grammar mistakes",
+    "input": "He finnished his meal and left the resturant",
+    "output": "He finished his meal and left the restaurant."
+  },
+  {
+    "instruction": "What is Intel's market share?",
+    "input": "",
+    "output": "Intel has historically had a significant market share in the global microprocessor market, especially for PCs and servers."
+  },
+  {
+    "instruction": "What is Intel's latest processor?",
+    "input": "",
+    "output": "As of the latest update, Intel's newest processors include the 12th Gen Intel® Core™ processors, codenamed Alder Lake, for desktops and laptops."
+  },
+  {
+    "instruction": "What is Intel's tick-tock model?",
+    "input": "",
+    "output": "Intel's tick-tock model was a strategy where they alternated between shrinking transistor size (tick) and introducing a new microarchitecture (tock) approximately every two years."
+  },
+  {
+    "instruction": "Is Intel a monopoly?",
+    "input": "",
+    "output": "Intel has faced scrutiny over its market dominance, but it operates in a competitive market alongside other major semiconductor companies."
+  },
+  {
+    "instruction": "Classify the following into animals, plants, and minerals",
+    "input": "Oak tree, copper ore, elephant",
+    "output": "Oak tree: Plant\n Copper ore: Mineral\n Elephant: Animal"
+  },
+  {
+    "instruction": "What is Intel's role in AI (Artificial Intelligence)?",
+    "input": "",
+    "output": "Intel provides AI hardware and software solutions, including processors optimized for AI workloads, neural network processors, and software tools like the Intel® Distribution of OpenVINO™ Toolkit."
+  },
+  {
+    "instruction": "Does Intel make graphics cards?",
+    "input": "",
+    "output": "Yes, Intel produces integrated graphics processors (GPUs) integrated into some of their CPUs, and they have also introduced discrete graphics cards under the Intel Arc brand."
+  },
+  {
+    "instruction": "Reverse engineer this code to create a new version",
+    "input": "def factorialize(num):\n  factorial = 1\n  for i in range(1, num):\n    factorial *= i\n  \n  return factorial",
+    "output": "def factorialize(num):\n  factorial = 1\n  for i in range(num, 0, -1):\n    factorial *= i\n  \n  return factorial"
+  },
+  {
+    "instruction": "Propose an ethical solution to the problem of data privacy",
+    "input": "",
+    "output": "One ethical solution to the problem of data privacy is to implement an opt-in data collection policy. This means that companies cannot collect and use personal data without the explicit permission of the data owners. This approach gives users the power to determine which data companies can use and for what purpose. Companies should also be transparent about how they use the collected data, so that users can make informed decisions and have control over their own data."
+  },
+  {
+    "instruction": "What is RVCE?",
+    "input": "",
+    "output": "RV College of Engineering (RVCE) is a private technical co-educational college located in Bangalore, India."
+  },
+  {
+    "instruction": "When was RVCE established?",
+    "input": "",
+    "output": "RVCE was established in 1963."
+  },
+  {
+    "instruction": "Who founded RVCE?",
+    "input": "",
+    "output": "RVCE was founded by the Rashtreeya Sikshana Samithi Trust (RSST)."
+  },
+  {
+    "instruction": "Where is RVCE located?",
+    "input": "",
+    "output": "RVCE is located in Bangalore, Karnataka, India."
+  },
+  {
+    "instruction": "Transcribe the recording into text.",
+    "input": "Recording about the history of Waterloo",
+    "output": "The Battle of Waterloo, fought on June 18, 1815, was the last major battle of the Napoleonic Wars. It marked the end of Napoleon Bonaparte's rule. The battle was fought between Napoleon Bonaparte's French forces and an allied force of British, Dutch, Belgian and Prussian troops, led by the Duke of Wellington. It was fought near the town of Waterloo in the former Austrian Netherlands, now present-day Belgium. The battle was a defeat for Napoleon's forces and ended Napoleon's rule over France. Napoleon himself was exiled to St. Helena, where he would die in 1821. The battle marked the end of French domination of Europe and the beginning of a period of peace in the region. It was also the last major battle of the Napoleonic Wars and is remembered as one of the most important battles in history. The victory of the allied forces at Waterloo helped to bring an end to French imperial ambitions in Europe. It also established the British as one of the most powerful nations in Europe. The battle was fought with a combination of infantry, cavalry, and artillery tactics, and showed the beginning of the changing nature of warfare. Although the French forces greatly outnumbered the allies, their strategic and tactical mistake led to the loss of the battle. This defeat signaled the end of French imperial power in Europe. The legacy of Waterloo still stands today, and it cemented the British Empire's position for the next one hundred years."
+  },
+  {
+    "instruction": "What courses are offered at RVCE?",
+    "input": "",
+    "output": "RVCE offers undergraduate and postgraduate courses in engineering, architecture, and computer applications."
+  },
+  {
+    "instruction": "What are the popular undergraduate programs at RVCE?",
+    "input": "",
+    "output": "Popular undergraduate programs at RVCE include Computer Science and Engineering, Electronics and Communication Engineering, Mechanical Engineering, and Information Science and Engineering."
+  },
+  {
+    "instruction": "What is the admission process for RVCE?",
+    "input": "",
+    "output": "Admission to RVCE is primarily based on entrance exams such as the Karnataka Common Entrance Test (KCET), Consortium of Medical, Engineering and Dental Colleges of Karnataka (COMEDK), and the Graduate Aptitude Test in Engineering (GATE) for postgraduate programs."
+  },
+  {
+    "instruction": "What is the campus size of RVCE?",
+    "input": "",
+    "output": "RVCE has a campus spread over 51.4 acres."
+  },
+  {
+    "instruction": "Find the area of a circle given its radius.",
+    "input": "Radius = 4",
+    "output": "The area of a circle with a radius of 4 is equal to 12.5664 square units. This is calculated by using the formula A = \u03c0r2, where A is the area, \u03c0 is roughly equal to 3.1416 and r is the radius of the circle."
+  },
+  {
+    "instruction": "What facilities are available at RVCE?",
+    "input": "",
+    "output": "RVCE offers facilities such as modern classrooms, laboratories, libraries, sports complexes, hostels, and research centers."
+  },
+  {
+    "instruction": "Is RVCE accredited?",
+    "input": "",
+    "output": "Yes, RVCE is accredited by the National Board of Accreditation (NBA) and has received an A grade from the National Assessment and Accreditation Council (NAAC)."
+  }
+]
