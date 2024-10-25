@@ -80,7 +80,7 @@ To launch the Ollama CLI, follow these steps:
 
 ### CLI Commands and Options
 
-The Ollama CLI offers a range of commands and options to enhance your experience and provide greater control over the LLM interaction:
+Ollama offers a various methods and enhanced techiques to work with LLM's:
 
 - `/help` or `/?`: Displays a list of available commands and their descriptions, helping you navigate the CLI’s functionality.
 - `/temperature [value]`: Adjusts the temperature parameter, controlling the randomness and creativity of the LLM’s responses.
@@ -151,7 +151,7 @@ Replace `./Modelfile` with the path to your actual Modelfile.
 Copy fine-tuned-model intellects
 ```
 
-8. Run your chatbot using the command: 
+8. Run your chatbot using the following commands: 
 ```bash
 ollama run intellects
 ```
