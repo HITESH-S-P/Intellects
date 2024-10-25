@@ -2,7 +2,7 @@
 INTEL-UNNATI-2024
 
 ## Introduction
-Ollama is an open-source project that serves as a powerful and user-friendly platform for running LLMs on your local machine. It acts as a bridge between the complexities of LLM technology and the desire for an accessible and customizable AI experience.
+Ollama is an open-source software that serves as a powerful and user-friendly platform for running LLMs on your local machines. It acts as a bridge between the complexities of LLM technology and the desire for an accessible and customizable AI experience.
 At its core, Ollama simplifies the process of downloading, installing, and interacting with a wide range of LLMs, empowering users to explore their capabilities without the need for extensive technical expertise or reliance on cloud-based platforms.
 
 ## Key Features and Functionalities
